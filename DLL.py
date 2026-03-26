@@ -73,7 +73,7 @@ class DoublyLinkedList:
                 return
             temp = temp.next
 
-        if not temp:
+        if not temp: 
             return
 
         # O(1) → pointer adjustments after reaching node
